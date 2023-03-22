@@ -13,7 +13,7 @@ python detect.py --weights ./checkpoints/custom-416 --size 416 --model yolov4 --
 python detect_video.py --weights ./checkpoints/yolov4-416 --size 416 --model yolov4 --video 0 --output ./detections/results.avi
 ```
 
-![]()
+![](https://github.com/archisha13/Licenseplatedetection/blob/main/video.png)
 
 
 
