@@ -6,7 +6,7 @@
 # Run custom yolov4 tensorflow model
 python detect.py --weights ./checkpoints/custom-416 --size 416 --model yolov4 --images ./data/images/car.jpg
 ```
-![]()
+![](https://github.com/archisha13/Licenseplatedetection/blob/main/detection1.png)
 
 ```sh
 # Run custom yolov4 model on video
